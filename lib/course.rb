@@ -12,3 +12,7 @@ end
 def schedule=(schedule)
 @schedule = schedule
 end
+
+def schedule
+  @schedule
+end
