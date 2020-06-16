@@ -20,3 +20,6 @@ end
 def description=(description)
 @decription = description
 end
+
+def desscription
+end 
