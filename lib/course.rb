@@ -32,4 +32,7 @@ def self.all
 @@all
 end
 
-end 
+def reset_all
+@@all.clear
+
+end
