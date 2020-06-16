@@ -17,4 +17,6 @@ def schedule
   @schedule
 end
 
-end 
+def description=(description)
+
+end
