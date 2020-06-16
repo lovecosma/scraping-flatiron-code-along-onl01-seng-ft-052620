@@ -25,4 +25,6 @@ def description
   @description
 end
 
+def self.all
+@@all 
 end
