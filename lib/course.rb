@@ -9,6 +9,6 @@ def title
   @title
 end
 
-
+def schedule=(schedule)
 
 end
