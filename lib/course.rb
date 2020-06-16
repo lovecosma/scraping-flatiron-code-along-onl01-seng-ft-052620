@@ -1,6 +1,6 @@
 class Course
 
-def title
+def title=(title)
   
 end
 
