@@ -20,5 +20,5 @@ end
 
 
 def get_page
-  w
+  
 end
