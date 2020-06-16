@@ -10,5 +10,5 @@ def title
 end
 
 def schedule=(schedule)
-
+@schedule = schedule
 end
