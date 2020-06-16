@@ -5,6 +5,9 @@ def title=(title)
 @title = title
 end
 
+def title
+  
+end
 
 
 
