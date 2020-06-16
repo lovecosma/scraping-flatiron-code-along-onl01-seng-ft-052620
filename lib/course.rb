@@ -22,4 +22,5 @@ def description=(description)
 end
 
 def desscription
-end 
+  @description
+end
